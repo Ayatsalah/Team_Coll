@@ -5,5 +5,7 @@ public class FirstClass {
         System.out.println("hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii");
 
         System.out.println("Rabee changed the class");
+
+        // more lines added as requested by Ayat
     }
 }
